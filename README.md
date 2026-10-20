@@ -1,6 +1,7 @@
 # Porovnání blbého a chytrého výtahu
 # Autoři Borovka, D. Hruška 3IT
-
+# Spuštění
+stáhnout .json složku a pak vložit do stránky dle vyzvání
 ## Zadání
 
 Oba výtahy byly vyzkoušeny na **stejném zadání** `zadani_porovnani_vytahu.json` s otiskem **55E5-36C8**. Budova má 8 pater (0–7), kabina pojme 7 lidí, jezdí rychlostí nejvýše 2 m/s a na jednotlivých patrech čeká celkem 100 cestujících. Jsou zastoupeny hromadné příchody v přízemí, návraty do přízemí a jízdy mezi podlažími. Výtah nezná cíle lidí, kteří ještě čekají, pouze požadovaný směr jízdy (`info.destVisible = false`).
