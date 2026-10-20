@@ -5,10 +5,10 @@ https://rudisss09.github.io/porovnani_vytahu/
 ---
 stáhnout .json složku a pak vložit do stránky dle vyzvání
 
-# Rozložení práce #
+# Rozložení práce 
 
 David - sledoval vygenerovaný kód a hledal/opravoval chyby po AI
----
+
 Rudolf - testoval kód, udělal github, vytvořil prompt pro AI
 
 
