@@ -5,6 +5,11 @@ https://rudisss09.github.io/porovnani_vytahu/
 ---
 stáhnout .json složku a pak vložit do stránky dle vyzvání
 
+# Rozložení práce
+David - sledoval vygenerovaný kód a hledal/opravoval chyby po AI
+Rudolf - testoval kód, udělal github, vytvořil prompt pro AI
+
+
 ## Zadání
 
 Oba výtahy byly vyzkoušeny na **stejném zadání** `zadani_porovnani_vytahu.json` s otiskem **55E5-36C8**. Budova má 8 pater (0–7), kabina pojme 7 lidí, jezdí rychlostí nejvýše 2 m/s a na jednotlivých patrech čeká celkem 100 cestujících. Jsou zastoupeny hromadné příchody v přízemí, návraty do přízemí a jízdy mezi podlažími. Výtah nezná cíle lidí, kteří ještě čekají, pouze požadovaný směr jízdy (`info.destVisible = false`).
@@ -39,6 +44,10 @@ Průměrný celkový čas cestujícího se zkrátil o **38.5 %**, průměrné č
 ## Jak výsledky zopakovat
 
 Otevři `vytah_blby.html` v prohlížeči a načti `zadani_porovnani_vytahu.json` tlačítkem **Vybrat soubor**. Poté otevři `vytah_chytry.html`, načti **stejný JSON** a porovnej údaje v části **Výsledek**. Otisk zadání musí být v obou případech **55E5-36C8**. V HTML chytřejší verze je změněný jen blok `<script id="algoritmus">`.
+
+
+
+
 
 
 
