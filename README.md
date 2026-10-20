@@ -2,6 +2,7 @@
 # Autoři Borovka, D. Hruška 3IT
 # Spuštění
 https://rudisss09.github.io/porovnani_vytahu/
+---
 stáhnout .json složku a pak vložit do stránky dle vyzvání
 
 ## Zadání
