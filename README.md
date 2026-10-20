@@ -1,4 +1,5 @@
 # Porovnání blbého a chytrého výtahu
+# Autoři Borovka, D. Hruška 3IT
 
 ## Zadání
 
@@ -37,4 +38,4 @@ Otevři `vytah_blby.html` v prohlížeči a načti `zadani_porovnani_vytahu.json
 
 
 
-#Autoři Borovka, D. Hruška 3IT
+
